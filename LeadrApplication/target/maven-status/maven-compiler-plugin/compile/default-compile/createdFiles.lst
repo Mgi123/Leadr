@@ -1,0 +1,5 @@
+in\leadr\leadrapplication\LeadrApplication.class
+in\leadr\leadrapplication\controller\AuthController.class
+in\leadr\leadrapplication\model\User.class
+in\leadr\leadrapplication\service\UserService.class
+in\leadr\leadrapplication\repo\UserRepository.class
