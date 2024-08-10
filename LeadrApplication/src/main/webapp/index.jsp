@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Lead Management System</h1>
+        <h1>Leadr Management System</h1>
         <form action="/login" method="post" class="login-form">
             <h2>Login</h2>
             <label for="username">Username:</label>
