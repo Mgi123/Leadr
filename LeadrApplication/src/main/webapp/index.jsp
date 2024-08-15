@@ -71,7 +71,7 @@
 <body>
 
 <div class="header">
-    <h1>Lead Management System</h1>
+    <h1>Leads Management System</h1>
 </div>
 
 <div class="login-box">
